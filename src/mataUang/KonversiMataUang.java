@@ -2,7 +2,7 @@ package mataUang;
 
 import java.util.Scanner;
 
-public class KonversiRupiah {
+public class KonversiMataUang {
 	public static void main(String[] args) {
         Scanner masukan = new Scanner(System.in);
         float rupiah, dolar;
