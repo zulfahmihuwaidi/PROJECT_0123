@@ -8,7 +8,7 @@ public class Konversi {
         float rupiah, dolar, euro;
         System.out.print("Masukan Rupiah = ");
         rupiah = masukan.nextFloat();
-        dolar = (float) (rupiah*0.00014);
+        dolar = (float) (rupiah*0.000014);
         
         System.out.println();
         System.out.println("Hasil Kurs = ");
