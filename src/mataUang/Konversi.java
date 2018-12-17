@@ -9,11 +9,10 @@ public class Konversi {
         System.out.print("Masukan Rupiah = ");
         rupiah = masukan.nextFloat();
         dolar = (float) (rupiah*0.0001);
-        euro = (float) (rupiah*0.00004);
+        
         System.out.println();
         System.out.println("Hasil Kurs = ");
         System.out.println("Dolar = " + dolar);
-        System.out.println("Euro = " + euro);
 	}
 	
 }
